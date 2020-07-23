@@ -1,0 +1,20 @@
+{
+  "name": "code",
+  "version": "0.0.0",
+  "scripts": {
+    "api": "npx json-server --watch --port=3002 src/api/data.json",
+    "dev": "npm run api & npx vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@tailwindcss/ui": "^0.3.1",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "autoprefixer": "^9.8.5",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.5.1",
+    "vite": "^1.0.0-rc.1"
+  }
+}

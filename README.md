@@ -2,7 +2,9 @@
 
 ## Tentang repository ini
 
-Repository dibuat untuk tambahan materi pada video di youtube saya mengenai vue composition api
+Repository dibuat untuk tambahan materi pada video di youtube saya mengenai vue composition api. Teman teman bisa nge akses video nya di sini.
+
+[Link Video](https://www.youtube.com/watch?v=8vpKtJqdJMI)
 
 ## Cara menggunakan repository ini
 
